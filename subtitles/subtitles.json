@@ -13,7 +13,7 @@
             "color": "#f5c2e7"
         },
         {
-            "text": "visit https://github.com/RoootTheFox",
+            "text": "visit this <a href=\"https://github.com/RoootTheFox\">epic github profile</a>",
             "color": "#f5c2e7"
         },
         {
