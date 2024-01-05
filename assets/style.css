@@ -19,3 +19,9 @@ h2 {
 .subtitle {
     font-size: 20px;
 }
+.btn {
+    background-color: #313244;
+    border-color: #313244;
+    padding: 0.6em 1em;
+    color: #bac2de;
+}
